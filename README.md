@@ -1,40 +1,37 @@
 
 <ul>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(1).pdf" style="text-decoration:none;">An Introduction to Symbolic Logic</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(2).pdf" style="text-decoration:none;">Geometry Revealed: A Jacob's Ladder to Modern Higher Geometry</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(3).pdf" style="text-decoration:none;">Modern Differential Geometry for Physicists</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(4).pdf" style="text-decoration:none;">Coordinate Geometry Booster with Problems and Solutions for JEE  </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(5).pdf" style="text-decoration:none;">CALCULUS: Analytic Geometry and Calculus, with Vectors</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(6).pdf" style="text-decoration:none;">Geometry with Applications and Proofs</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(7).pdf" style="text-decoration:none;">Geometry For Dummies</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(8).pdf" style="text-decoration:none;">Contributions to Geometry</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(9).pdf" style="text-decoration:none;">501 Geometry Questions</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(10).pdf" style="text-decoration:none;">Methods of Geometry</a></b></li>                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(11).pdf" style="text-decoration:none;">Analytical Geometry</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(12).pdf" style="text-decoration:none;">Gems of Geometry </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(13).pdf" style="text-decoration:none;"> Challenging Problems in Geometry</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(14).pdf" style="text-decoration:none;">Geometry IV: Non-regular Riemannian Geometry </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(15).pdf" style="text-decoration:none;">Applied Differential Geometry: A Modern Introduction</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(16).pdf" style="text-decoration:none;">Perspectives on Projective Geometry</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(17).pdf" style="text-decoration:none;">Introduction to the geometry of complex numbers </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(18).pdf" style="text-decoration:none;">255 Compiled and Solved Problems in Geometry and Trigonometry</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(19).pdf" style="text-decoration:none;">GMAT Geometry </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(20).pdf" style="text-decoration:none;">Problems and Solutions in Euclidean Geometry</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(21).pdf" style="text-decoration:none;">Methods of Solving Complex Geometry Problems</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(22).pdf" style="text-decoration:none;">Algebraic Geometry I</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(23).pdf" style="text-decoration:none;">The Four Pillars of Geometry </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(24).pdf" style="text-decoration:none;">Plane and Solid Geometry</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(1).pdf" style="text-decoration:none;">An Introduction to Symbolic Logic</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(2).pdf" style="text-decoration:none;">A First Course in Mathematical Logic and Set Theory</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(3).pdf" style="text-decoration:none;">After Godel: Platonism and Rationalism in Mathematics and Logic</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(4).pdf" style="text-decoration:none;">A Concise Introduction to Mathematical Logic  </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(5).pdf" style="text-decoration:none;">Principles of Mathematics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(6).pdf" style="text-decoration:none;">Classical Mathematical Logic</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(7).pdf" style="text-decoration:none;">What is mathematical logic? A survey</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(8).pdf" style="text-decoration:none;">Elements of Mathematical Logic</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(9).pdf" style="text-decoration:none;"> Essays in the Philosophy and History of Logic and Mathematics</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(10).pdf" style="text-decoration:none;">From Fuzzy Logic to Fuzzy Mathematics</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(11).pdf" style="text-decoration:none;">Lectures in Logic and Set Theory: Volume 1, Mathematical Logic</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(12).pdf" style="text-decoration:none;">Logic and Discrete Mathematics: A Concise Introduction </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(13).pdf" style="text-decoration:none;"> Logic and Structure</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(14).pdf" style="text-decoration:none;">Logic as a Tool: A Guide to Formal Logical Reasoning </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(15).pdf" style="text-decoration:none;">Mathematical Logic for Computer Science</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(16).pdf" style="text-decoration:none;">Mathematical Logic: A Course with Exercises - Part 1: Propositional calculus, Boolean algebras, Predicate calculus</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(17).pdf" style="text-decoration:none;">Mathematical Problems from Applied Logic I </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(18).pdf" style="text-decoration:none;">Mathematics of the 19th Century: Mathematical Logic Algebra Number Theory Probability Theory</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(19).pdf" style="text-decoration:none;">Methods in Mathematical Logic </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(20).pdf" style="text-decoration:none;">Gödel's Proof</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(21).pdf" style="text-decoration:none;">Pure Mathematics for Beginners: A Rigorous Introduction to Logic, Set Theory, Abstract Algebra, Number Theory, Real Analysis, Topology, Complex Analysis, and Linear Algebra</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(22).pdf" style="text-decoration:none;">Rethinking Logic: Logic in Relation to Mathematics, Evolution, and Method</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(23).pdf" style="text-decoration:none;">Sets, functions, and logic: an introduction to abstract mathematics </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(24).pdf" style="text-decoration:none;">How to Prove It: A Structured Approach</a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(25).pdf" style="text-decoration:none;">Course of analytical geometry</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(26).pdf" style="text-decoration:none;">Differential Geometry</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(27).pdf" style="text-decoration:none;">Curved Spaces: From Classical Geometries to Elementary Differential Geometry</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(28).pdf" style="text-decoration:none;">Geometry: An Interactive Journey to Mastery </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(29).pdf" style="text-decoration:none;">Further Mathematics HL: Linear Algebra and Geometry </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(30).pdf" style="text-decoration:none;">College Geometry: An Introduction to the Modern Geometry of the Triangle and the Circle </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/am(31).pdf" style="text-decoration:none;">Arithmetic and Geometry: Papers Dedicated to I.R. Shafarevich on the Occasion of His Sixtieth Birthday </a></b></li>                               
-                                
-                                
-                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(25).pdf" style="text-decoration:none;">The Adventure of Reason: Interplay between Philosophy of Mathematics and Mathematical Logic, 1900–1940</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(26).pdf" style="text-decoration:none;">The Development of Mathematical Logic from Russell to Tarski: 1900–1935</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(27).pdf" style="text-decoration:none;">Principles of Mathematical Logic</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(28).pdf" style="text-decoration:none;">Towards an Arithmetical Logic: The Arithmetical Foundations of Logic </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(29).pdf" style="text-decoration:none;">Omega-Bibliography of Mathematical Logic: Proof Theory Constructive Mathematics </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(30).pdf" style="text-decoration:none;">On Formally Undecidable Propositions of Principia Mathematica and Related Systems</a></b></li>
+                                        
                                 
  
  </ul>
